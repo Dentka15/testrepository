@@ -1,4 +1,4 @@
 
 public class FirstSample {
-    private String str;
+    private String strr;
 }
