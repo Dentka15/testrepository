@@ -1,3 +1,4 @@
 *.prefs
 **/target/**
-**/.settings/**
+/.settings/**
+/bin/
